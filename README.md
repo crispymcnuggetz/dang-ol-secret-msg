@@ -1,4 +1,4 @@
-# friendly-waffle
+# Dang Ol' Secret Message
 
 A random job assessment puzzle on DataAnnotation
 
